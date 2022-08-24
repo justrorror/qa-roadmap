@@ -29,6 +29,7 @@ This QA Roadmap for interactive learning.
 - [ ] The OpenAPI Specification (OAS) ([Read](https://swagger.io/specification/))
 
 ## TODO: Add more items in the future
+- [ ] ...
 
 ### Other helpful Resources
 - [ ] Operating systems ([Course](https://ru.hexlet.io/courses/operating_systems))
