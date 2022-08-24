@@ -16,6 +16,7 @@ This QA Roadmap for interactive learning.
 - [ ] What is GitHub? ([Watch](https://www.youtube.com/watch?v=w3jLJU7DT5E))
 - [ ] Create account in GitHub ([GitHub](https://github.com/))
 - [ ] Learn Git ([Course](https://github.com/jlord/git-it-electron))
+- [ ] Course in Russian on Hexlet ([Course](https://ru.hexlet.io/courses/intro_to_git))
 
 ## Relational Databases
 - [ ] What is Databases and SQL? ([Watch](https://www.edx.org/course/databases-5-sql))
@@ -26,3 +27,9 @@ This QA Roadmap for interactive learning.
 - [ ] JSON APIs ([Read](https://jsonapi.org/implementations/))
 - [ ] Public APIs ([Link](https://github.com/public-apis/public-apis))
 - [ ] The OpenAPI Specification (OAS) ([Read](https://swagger.io/specification/))
+
+## TODO: Add more items in the future
+
+### Other helpful Resources
+- [ ] Operating systems ([Course](https://ru.hexlet.io/courses/operating_systems))
+- [ ] Cli basics ([Course](https://ru.hexlet.io/courses/cli-basics))
