@@ -35,3 +35,4 @@ This QA Roadmap for interactive learning.
 ### Other helpful Resources
 - [ ] Operating systems ([Course](https://ru.hexlet.io/courses/operating_systems))
 - [ ] Cli basics ([Course](https://ru.hexlet.io/courses/cli-basics))
+- [ ] Russian guides from Hexlet ([Resources](https://guides.hexlet.io/ru/))
