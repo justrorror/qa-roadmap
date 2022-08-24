@@ -25,8 +25,9 @@ This QA Roadmap for interactive learning.
 ## APIs
 - [ ] What is an API? ([Read](https://aws.amazon.com/what-is/api/))
 - [ ] JSON APIs ([Read](https://jsonapi.org/implementations/))
-- [ ] Public APIs ([Link](https://github.com/public-apis/public-apis))
 - [ ] The OpenAPI Specification (OAS) ([Read](https://swagger.io/specification/))
+- [ ] Postman ([App](https://www.postman.com/))
+- [ ] Public APIs ([Link](https://github.com/public-apis/public-apis))
 
 ## TODO: Add more items in the future
 - [ ] ...
