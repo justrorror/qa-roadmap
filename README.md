@@ -3,7 +3,7 @@
 This QA Roadmap for interactive learning.
 
 ## Internet
-- [ ] How Does the Internet Work?
+- [ ] How Does the Internet Work? ([Read](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm))
 - [ ] What is HTTP? ([Read](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/))
 - [ ] How Browsers Work? ([Read](https://web.dev/howbrowserswork/))
 - [ ] What is DNS? ([Read](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/))
