@@ -3,7 +3,7 @@
 This QA Roadmap for interactive learning.
 
 ## Internet
-- [ ] How Does the Internet Work? ([Read](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm){:target="_blank"})
+- [ ] How Does the Internet Work? ([Read](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm))
 - [ ] What is HTTP? ([Read](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/))
 - [ ] How Browsers Work? ([Read](https://web.dev/howbrowserswork/))
 - [ ] What is DNS? ([Read](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/))
@@ -26,4 +26,3 @@ This QA Roadmap for interactive learning.
 - [ ] JSON APIs ([Read](https://jsonapi.org/implementations/))
 - [ ] Public APIs ([Link](https://github.com/public-apis/public-apis))
 - [ ] The OpenAPI Specification (OAS) ([Read](https://swagger.io/specification/))
-
